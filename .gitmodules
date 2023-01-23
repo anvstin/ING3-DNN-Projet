@@ -1,0 +1,3 @@
+[submodule "MNIST-ObjectDetection"]
+	path = MNIST-ObjectDetection
+	url = https://github.com/hukkelas/MNIST-ObjectDetection.git
