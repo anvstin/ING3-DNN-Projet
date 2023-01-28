@@ -1,3 +1,6 @@
 [submodule "MNIST-ObjectDetection"]
 	path = MNIST-ObjectDetection
 	url = https://github.com/hukkelas/MNIST-ObjectDetection.git
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/AlexeyAB/darknet.git
