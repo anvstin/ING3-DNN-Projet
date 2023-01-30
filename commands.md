@@ -17,7 +17,7 @@ All commands are executed from the `darknet` directory.
 ## Image Detection using trained weights
 
 ```
-./darknet.exe detector test ../cfg/mnist.data ../yolov4_custom.cfg ../backup/yolov4_custom_last.weights
+./darknet.exe detector test ../cfg/mnist.data ../yolov4_custom.cfg ./backup/yolov4_custom_last.weights
 ```
 
 ## Using a file list as input
